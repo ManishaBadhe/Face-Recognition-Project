@@ -27,7 +27,7 @@ Make sure you have the following installed:
 - NumPy: Install using `pip install numpy`
 
 ### 2. Clone the Repository
-git clone https://github.com/your-username/Face-Recognition-Project.git
+git clone https://ManishaBadhe//Face-Recognition-Project.git
 cd Face-Recognition-Project
 
 ### 3. Download Haar Cascade File
